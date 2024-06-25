@@ -85,7 +85,7 @@ Image Optimization Docs, Font Optimization Docs, Improving Web Performance with 
 -push to github
 -setup a vercel account and link git repo for preview & deployment
 -create and like project to postgres db
--send db init data: seed
+-send db init data: seed (seed/route.ts): Route Handler
 
 
 
